@@ -1,2 +1,6 @@
 # Caeser-Vignere-Encoder-Decoder
-Encode and Decode functions for the Caeser and Vigenère Ciphers. My solutions to this problem, found on the Codecademy Python course.
+Encode and Decode functions for the Caeser and Vigenère Ciphers. My solutions to a problem set on the Codecademy Python course.
+
+The Caesar Cipher encodes by taking a message, then shifting each letter along the alphabet (to the left) by a given offset.
+
+The The Vigenère Cipher encodes by taking a message and keyword. It then generates a keyword phrase by repeating the keyword until we have a string with the same number of letters as appear in the message. Then, each letter of the message is shifted along the alphabet (to the right) by and offset given by the index of the corresponding letter of the keyword phrase in the alphabet. Makes sense? Good. 
