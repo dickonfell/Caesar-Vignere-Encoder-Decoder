@@ -1,4 +1,6 @@
 def vencoder(message,keyword):
+    # encoder for the vignere cipher. shifts each letter of a message to the right along the alphabet 
+    # by the index of the corresponding letter of the keyword phrase in the alphabet.
     
     alphabet = "abcdefghijklmnopqrstuvwxyz"
     output = ""
