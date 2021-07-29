@@ -22,4 +22,4 @@ def vdecoder(message,keyword):
         
     return output
 
-print(vdecoder("dfc aruw fsti gr vjtwhr wznj? vmph otis! cbx swv jipreneo uhllj kpi rahjib eg fjdkwkedhmp!","friends"))
+print(vdecoder("ioq zrc vz qsi qaoaprrz qxd jmvf byssnb qz eqr qepvc abb lhthhqlkc suv.","huxley"))
