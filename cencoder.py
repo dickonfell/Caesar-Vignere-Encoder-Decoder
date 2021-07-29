@@ -22,4 +22,4 @@ def cencoder(message,offset):
     
     return " ".join(output)
 
-print(cencoder("hey there! this is an example of a caesar cipher. were you able to decode it? i hope so! send me a message back with the same offset!",10))
+print(cencoder("‘bokanovsky’s process,’ repeated the director, and the students underlined the words in their little note-books.",10))
