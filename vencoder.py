@@ -22,4 +22,4 @@ def vencoder(message,keyword):
         
     return output
 
-print(vencoder("you were able to decode this? nice work! you are becoming quite the expert at crytography!","friends"))
+print(vencoder("but one of the students was fool enough to ask where the advantage lay.","huxley"))
