@@ -22,4 +22,4 @@ def cdecoder(message,offset):
     
     return " ".join(output)
 
-print(cdecoder("xuo jxuhu! jxyi yi qd unqcfbu ev q squiqh syfxuh. muhu oek qrbu je tusetu yj? y xefu ie! iudt cu q cuiiqwu rqsa myjx jxu iqcu evviuj!",10))
+print(cdecoder("‘reaqdeliao’i fhesuii,’ hufuqjut jxu tyhusjeh, qdt jxu ijktudji kdtuhbydut jxu mehti yd jxuyh byjjbu deju-reeai.",10))
